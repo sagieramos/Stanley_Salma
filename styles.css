@@ -1,0 +1,24 @@
+header {
+    position: fixed;
+    
+}
+#header-div{
+    display: inline-block;
+}
+header li{
+    display: inline;
+    padding-left: 5vh;
+}
+
+#pricing{
+    display: flex;
+    flex-direction: row;
+}
+#video{
+    padding-top: 10%;
+}
+@media screen and (min-width: 480px) {
+    body {
+      color: black;
+    }
+  }
